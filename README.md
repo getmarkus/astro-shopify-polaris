@@ -2,7 +2,7 @@
 
 Here is a quick theme template to experiment with Shopify's design system for Admin Apps called [Polaris](https://polaris.shopify.com/). The goal is to see if it works with [Astro](https://astro.build).
 
-```node
+```bash
 npm create astro@latest -- --template getmarkus/astro-shopify-polaris
 ```
 
