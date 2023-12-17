@@ -6,7 +6,7 @@ Here is a quick theme template to experiment with Shopify's design system for Ad
 npm create astro@latest -- --template getmarkus/astro-shopify-polaris
 ```
 
-[Live Demo](https://www.christophermarkus.com//shopify-polaris-astro). Please keep in mind this is a work in progress and not functionally complete.
+[Live Demo](https://www.christophermarkus.com/astro-shopify-polaris/). Please keep in mind this is a work in progress and not functionally complete.
 
 Breaking down this implementation into three broad steps.
 
