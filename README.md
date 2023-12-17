@@ -1,6 +1,6 @@
 # Astro + Shopify's Polaris Admin Framework
 
-Here is a quick theme template to experiment with Shopify's design system for Admin system called [Polaris](https://polaris.shopify.com/). The goal was to see if it works with [Astro](https://astro.build).
+Here is a quick theme template to experiment with Shopify's design system for Admin Apps called [Polaris](https://polaris.shopify.com/). The goal is to see if it works with [Astro](https://astro.build).
 
 ```node
 npm create astro@latest -- --template getmarkus/astro-shopify-polaris
