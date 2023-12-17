@@ -4,7 +4,7 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  base: '/shopify-polaris-astro',
+  base: '/astro-shopify-polaris',
   build: {
     assets: 'astro'
   },
